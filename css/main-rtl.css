@@ -1,0 +1,15 @@
+h1,h2,h3,h4,h5,h6,p,span,a,li,ul{
+    direction: rtl !important;
+    font-family:  'Amiri', serif !important;
+}
+.post-meta{
+    display: block;
+}
+.well{
+    text-align: center;
+}
+.navbar-custom .nav li a{
+    text-transform: none !important;
+    font-size: 18px !important;
+    letter-spacing: 0 !important;
+}
