@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://username.github.io/</loc>
+    <loc>https://rahemon.ir/</loc>
     <lastmod>2019-04-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://username.github.io/post/</loc>
+    <loc>https://rahemon.ir/post/</loc>
     <lastmod>2019-04-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://username.github.io/post/first-post/</loc>
+    <loc>https://rahemon.ir/post/first-post/</loc>
     <lastmod>2019-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://username.github.io/categories/</loc>
+    <loc>https://rahemon.ir/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://username.github.io/page/</loc>
+    <loc>https://rahemon.ir/page/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://username.github.io/tags/</loc>
+    <loc>https://rahemon.ir/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://username.github.io/page/about/</loc>
+    <loc>https://rahemon.ir/page/about/</loc>
   </url>
   
 </urlset>
